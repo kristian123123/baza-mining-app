@@ -4,11 +4,6 @@
 
 ## Контракт (Base Mainnet)
 
-- [BazaToken на Basescan](https://basescan.org/address/0x685cD8bBC7EDac563024D798f19D12fdb2A89887#code)
-
-## Репозиторий
-
-- [Исходный код на GitHub](https://github.com/skimbas/base-puzzle)
 
 ## Стек
 
